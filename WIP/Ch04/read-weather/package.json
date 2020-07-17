@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "bluebird": "^3.5.5",
-    "lodash": "^4.17.14"
+    "lodash": "^4.17.19"
   }
 }
